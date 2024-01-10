@@ -8,7 +8,7 @@ import io
 from twilio.rest import Client 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-.."
 
 
 

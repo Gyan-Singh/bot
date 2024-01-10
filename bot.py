@@ -9,7 +9,7 @@ from twilio.rest import Client
 import openai
 from pydub import AudioSegment
 
-openai.api_key = "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"
+openai.api_key = "sk-.."
 app = Flask(__name__)
 
 
